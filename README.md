@@ -1,9 +1,10 @@
 ## Olá me chamo João Gabriel 👋
 
-- 🔭 Análise e Desenvolvimento de Sistemas (SENAC-RS) 5o Semestre/6.
-- 🌱 Estudando Java
-- 🌱 Extras: Python, Node, React, MySQL.
-- 🔭 Analista de Monitoramento
+- 🔭 Graduado em Análise e Desenvolvimento de Sistemas
+- - 🔭 Analista de Monitoramento
+- 🌱 Front – End Developer
+- 🌱 Estudando para Full-Stack.
+
 
 <div align="center">
   <a href="https://github.com/Jgabriel02">
