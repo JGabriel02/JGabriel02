@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is João Gabriel </h2>
+<h2 align="left">Hi 👋! My name is João Gabriel 👨‍💻</h2>
+
+**`Desenvolvedor Frontend`**
+
+<p align="left">
+  Me chamo João Gabriel, sou natural do Rio Grande do Sul e um entusiasta da tecnologia com paixão por criar soluções web inovadoras. <br>
+  Atuo com foco no desenvolvimento Front-End, unindo criatividade e funcionalidade para entregar experiências digitais envolventes. <br>
+  Atualmente, também estou me aprofundando no universo Mobile, sempre buscando evoluir e expandir meus conhecimentos. 🚀
+</p>
 
 ###
 <div align="center">
