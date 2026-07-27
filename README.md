@@ -1,43 +1,103 @@
-<h2 align="left">Hi 👋! My name is João Gabriel 👨‍💻</h2>
-
-
-
-<p align="left">
-  
-</p>
-
-###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JGabriel02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"%20height="150"%20alt="stats%20graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JGabriel02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B83280&height=100&section=header" width="100%" />
 </div>
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=10000&color=FF49DB&width=435&lines=Hello+World!+👋)](https://git.io/typing-svg)
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvcDd5dzdoZmhydWxmZ3d4aDhibGdtMG00dGZwNGg2ejdqZmtzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFlYFzFsDiVssrxpnW/giphy.gif" />
+# 👨‍💻 João Gabriel da Rocha da Silva
 
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=FF49DB&width=435&lines=Sobre+mim%3A)](https://git.io/typing-svg)
 
-###
+<img align="right" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvcDd5dzdoZmhydWxmZ3d4aDhibGdtMG00dGZwNGg2ejdqZmtzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFlYFzFsDiVssrxpnW/giphy.gif" />
 
-<div> 
-  <a href="https://www.linkedin.com/in/joão-gabriel-da-rocha-da-silva-291338207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/j.gabriel02_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+Sou **Desenvolvedor de Software** apaixonado por tecnologia e pela construção de soluções que geram impacto.
 
-###
+Graduado em **Análise e Desenvolvimento de Sistemas** pelo **Senac RS** e atualmente cursando **Ciência da Computação**, busco evoluir constantemente como desenvolvedor, aplicando boas práticas, arquitetura de software e desenvolvimento orientado a objetos.
+
+Tenho experiência profissional em desenvolvimento, suporte e monitoramento de aplicações, atuando com tecnologias como **Java**, **C#**, **Python**, **Node.js** e **Angular**, sempre focado em qualidade, performance e aprendizado contínuo.
+
+- 🎓 **Formação:** Bacharel em Análise e Desenvolvimento de Sistemas
+- 📚 **Atualmente:** Bacharelado em Ciência da Computação
+- 💼 **Cargo:** Desenvolvedor de Software / Analista de Sistemas
+- 🌱 **Estudando:** Java, Spring Boot, Angular, Cloud e Arquitetura de Software
+- 🌎 **Idiomas:** Inglês (Professional Working)
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JGabriel02/JGabriel02/output/snake.svg" alt="Snake animation" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3900&pause=10000&color=FF49DB&width=435&lines=Tecnologias+e+Stack%3A)](https://git.io/typing-svg)
 
+<div align="center">
+
+### 💻 Back-end
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,nodejs,python)](https://skillicons.dev)
+
+### 🎨 Front-end
+
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css,javascript,typescript,nextjs)](https://skillicons.dev)
+
+### 🗄️ Banco de Dados
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### ⚙️ Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
+
+</div>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=FF49DB&width=435&lines=Minhas+Redes%3A)](https://git.io/typing-svg)
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/slpjg" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-221233?style=for-the-badge&logo=linkedin&logoColor=D946EF&labelColor=170826"/>
+</a>
+
+<a href="mailto:joaogabrielkb2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-221233?style=for-the-badge&logo=gmail&logoColor=D946EF&labelColor=170826"/>
+</a>
+
+<a href="https://www.instagram.com/j.gabriel02_/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-221233?style=for-the-badge&logo=instagram&logoColor=D946EF&labelColor=170826"/>
+</a>
+
+</div>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=FF49DB&width=435&lines=GitHub+Stats%3A)](https://git.io/typing-svg)
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+<img src="https://github-stats-extended.vercel.app/api?username=JGabriel02&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly"/>
+
+</td>
+
+<td>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=JGabriel02&langs_count=6&layout=compact&theme=jolly"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/JGabriel02/JGabriel02/output/snake.svg)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B83280&height=70&section=footer" width="100%" />
+</div>
